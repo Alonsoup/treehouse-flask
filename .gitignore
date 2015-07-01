@@ -7,3 +7,6 @@ node_modules
 src/styles/base
 src/styles/bourbon
 src/styles/neat
+
+static/styles
+static/scripts
